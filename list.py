@@ -1,0 +1,10 @@
+l=[1,2,3,4,5,6]
+print(l)
+print(2 in l)
+print(l.count(6))
+print(l.index(3))
+l.remove(1)
+print(l)
+print(l.pop(3))
+l.reverse()
+print(l)
